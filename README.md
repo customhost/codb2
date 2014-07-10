@@ -1,4 +1,4 @@
-codb2
+CODB2
 =====
 
-CoDB2 is a tiny data base wrapper for PHP
+CoDB2 is a tiny database wrapper for PHP
